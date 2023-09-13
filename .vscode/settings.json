@@ -1,0 +1,10 @@
+{
+  "leetcode.defaultLanguage": "python3",
+  "leetcode.workspaceFolder": "/Users/christopherlee/projects/leetcode2023",
+  "leetcode.filePath": {
+      "default": {
+          "folder": "",
+          "filename": "${id}.${snake_case_name}.${ext}"
+      }
+    }
+}
